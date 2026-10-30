@@ -2,7 +2,7 @@
 
 **Problema:** predecir si un cliente suscribirá un depósito a término (`y` = `yes` / `no`).
 
-**Plataforma:** <URL_DE_LA_PLATAFORMA>
+**Plataforma:** https://ml1-competencia.pages.dev
 
 ---
 
