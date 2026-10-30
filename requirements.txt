@@ -1,0 +1,12 @@
+# Versiones EXACTAS del entorno de evaluación de la competencia ML1.
+# Entrena y guarda tu modelo con estas versiones o tu .pkl puede no cargar.
+# (En tu PC puedes instalar "xgboost==3.0.2" en lugar de xgboost-cpu: es el mismo paquete.)
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.15.3
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+xgboost-cpu==3.0.2
+lightgbm==4.6.0
+joblib==1.5.1
+cloudpickle==3.1.1
